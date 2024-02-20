@@ -1,7 +1,0 @@
-###### Required python packages for running SICILIAN ######`
-
-argparse
-numpy
-pandas
-pyarrow
-pysam
